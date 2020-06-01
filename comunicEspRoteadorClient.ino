@@ -3,8 +3,8 @@
 #define PINBUT 4 //Botão
 #define PINLEDL 2 //Led embutido
 
-const char* ssid      = "LIVE TIM_41F9_2G";
-const char* password  = "2pxtrvv3hd";
+const char* ssid      = "Nome da rede";
+const char* password  = "Senha da rede";
 const String clientID = "Cliente 01"; //Id do Client
 
 IPAddress server(192,168,25,240);
